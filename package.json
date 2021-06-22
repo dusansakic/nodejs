@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "ZdravoSvete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dusan sakic",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusansakic/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dusansakic/nodejs/issues"
+  },
+  "homepage": "https://github.com/dusansakic/nodejs#readme",
+  "description": ""
+}
